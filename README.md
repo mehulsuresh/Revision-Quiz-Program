@@ -16,4 +16,4 @@ east.
   
 . (fullstop) seperates one question/answer pair from another  
 ? (question mark) seperates the question from the answer  
-, (comma) seperates the  
+, (comma) seperates the choices in an multiple choice question  
