@@ -1,0 +1,8 @@
+This is a simple question?
+This is a simple answer.
+This is a multiple choice question?
+answer1, /answer2, answer3.
+What is the 7-bit text encoding standard?
+ascii.
+What is the 16-bit text encoding standard?
+unicode.
